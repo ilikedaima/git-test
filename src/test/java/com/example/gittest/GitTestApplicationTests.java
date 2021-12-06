@@ -9,6 +9,7 @@ class GitTestApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("hello master");
+        System.out.println("hello hot-fix");
     }
 
 }
